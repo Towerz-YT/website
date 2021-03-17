@@ -1,0 +1,134 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 981px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 800px;
+  min-height: 270px;
+  margin: 68px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 305px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 143px 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px 192px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6px 31px 6px 30px;
+}
+
+.u-section-1 .u-video-1 {
+  width: 800px;
+  height: 388px;
+  animation-duration: 1000ms;
+  margin: 30px auto 60px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    margin-top: -31px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+    margin-top: -108px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 265px;
+    margin-right: 265px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 103px;
+    margin-right: 103px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 152px;
+    margin-right: 152px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-top: 19px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 195px;
+    margin-right: 195px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 33px;
+    margin-right: 33px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 82px;
+    margin-right: 82px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-top: -122px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 95px;
+    margin-right: 95px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+  }
+}
