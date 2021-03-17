@@ -4,7 +4,7 @@
 
 .u-section-1 .u-group-1 {
   width: 800px;
-  min-height: 270px;
+  min-height: 288px;
   margin: 68px auto 0;
 }
 
@@ -28,8 +28,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 20px auto 0;
   padding: 6px 31px 6px 30px;
 }
 
